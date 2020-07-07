@@ -11,6 +11,7 @@ the-movies-dataset
 logs
 cat_and_dog/
 NYT-comments
+preview/
 model/
 data/
 # Byte-compiled  optimized  DLL files
